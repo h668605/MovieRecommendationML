@@ -25,6 +25,14 @@
     ```
 5. The project is dependent on some datasets that are too large to upload to github. Go to the link of datasets provided in "Acknowledgements" and download the movies and ratings datasets. Copy these into the CSVFiles folder.
 
+6. You may get a error saying numpy and surprise are in incompatible versions. If so try running in your terminal:
+    ```bash
+    pip install numpy<2
+    ```
+    ```bash
+    pip install --upgrade scikit-surprise
+    ```
+
 
 ### Usage
 
