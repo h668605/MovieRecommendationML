@@ -47,10 +47,10 @@
 
 4. Press the "Get Recommendations"-button. This might take a while so be patient
 
-## Here are some screenshots of the application:
-# Adding movies and rating them:
+### Here are some screenshots of the application:
+#### Adding movies and rating them:
 ![image](https://github.com/user-attachments/assets/2d83c340-73c2-4b91-9199-a86218184a92)
-# Getting recommendations after pressing the button:
+#### Getting recommendations after pressing the button:
 ![image](https://github.com/user-attachments/assets/2ccd9122-5e89-4602-9c0a-49993a88e2bd)
 
 
