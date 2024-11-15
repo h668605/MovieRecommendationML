@@ -32,6 +32,7 @@
     ```bash
     python main.py
     ```
+    Or just use the RUN button in your IDE.
 2. Press the local link provided in the terminal
 
 3. For each movie you have seen type in the name in the first box. This will filter out titles simular to what you typed so you can easily select your movie. Then you simply give a rating to the movie. Repeat the process for up to five movies.
